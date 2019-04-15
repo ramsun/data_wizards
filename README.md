@@ -1,4 +1,4 @@
-# data_wizards
+# S&P 500 Historical Trend Analysis
 Project 1 – S&amp;P 500 Historical Data Analysis
 
 # Sections:
